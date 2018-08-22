@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoFinal.EntityFramework", "ProjetoFinal.EntityFramework\ProjetoFinal.EntityFramework.csproj", "{B787BC6D-1386-467F-874F-15833EE420BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoFinal.NHibernate", "ProjetoFinal.NHibernate\ProjetoFinal.NHibernate.csproj", "{81120DC6-3E71-47CF-A6EC-01B368749325}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoFinal.Compartilhado", "ProjetoFinal.Compartilhado\ProjetoFinal.Compartilhado.csproj", "{795AB0E3-F7B9-414A-A329-7B52B53D6119}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoFinal.API", "ProjetoFinal.API\ProjetoFinal.API.csproj", "{E87B117E-6910-4E67-A62E-33AB5FE38669}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{BAD6C6EE-35C4-464A-9E2A-284D3417CA27}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ProjetoFinal.Web", "ProjetoFinal.Web\", "{00C713E7-3800-4268-B495-6533402304F8}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53642"
+		Debug.AspNetCompiler.PhysicalPath = "ProjetoFinal.Web\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53642\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53642"
+		Release.AspNetCompiler.PhysicalPath = "ProjetoFinal.Web\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53642\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53642"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B787BC6D-1386-467F-874F-15833EE420BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B787BC6D-1386-467F-874F-15833EE420BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B787BC6D-1386-467F-874F-15833EE420BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B787BC6D-1386-467F-874F-15833EE420BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81120DC6-3E71-47CF-A6EC-01B368749325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81120DC6-3E71-47CF-A6EC-01B368749325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81120DC6-3E71-47CF-A6EC-01B368749325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81120DC6-3E71-47CF-A6EC-01B368749325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{795AB0E3-F7B9-414A-A329-7B52B53D6119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795AB0E3-F7B9-414A-A329-7B52B53D6119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795AB0E3-F7B9-414A-A329-7B52B53D6119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795AB0E3-F7B9-414A-A329-7B52B53D6119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E87B117E-6910-4E67-A62E-33AB5FE38669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E87B117E-6910-4E67-A62E-33AB5FE38669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E87B117E-6910-4E67-A62E-33AB5FE38669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E87B117E-6910-4E67-A62E-33AB5FE38669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAD6C6EE-35C4-464A-9E2A-284D3417CA27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD6C6EE-35C4-464A-9E2A-284D3417CA27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD6C6EE-35C4-464A-9E2A-284D3417CA27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD6C6EE-35C4-464A-9E2A-284D3417CA27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00C713E7-3800-4268-B495-6533402304F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C713E7-3800-4268-B495-6533402304F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C713E7-3800-4268-B495-6533402304F8}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C713E7-3800-4268-B495-6533402304F8}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73810481-13AB-4A8D-B16D-89DF17F1568F}
+	EndGlobalSection
+EndGlobal
