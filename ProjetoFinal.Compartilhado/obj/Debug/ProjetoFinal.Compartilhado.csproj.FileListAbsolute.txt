@@ -1,0 +1,6 @@
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\binarios\ProjetoFinal.Compartilhado.dll
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\binarios\ProjetoFinal.Compartilhado.pdb
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\ProjetoFinal.Compartilhado\obj\Debug\ProjetoFinal.Compartilhado.csprojAssemblyReference.cache
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\ProjetoFinal.Compartilhado\obj\Debug\ProjetoFinal.Compartilhado.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\ProjetoFinal.Compartilhado\obj\Debug\ProjetoFinal.Compartilhado.dll
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\ProjetoFinal.Compartilhado\obj\Debug\ProjetoFinal.Compartilhado.pdb

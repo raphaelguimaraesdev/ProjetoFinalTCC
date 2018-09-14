@@ -1,0 +1,8 @@
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\binarios\ProjetoFinal.EntityFramework.dll
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\binarios\ProjetoFinal.EntityFramework.pdb
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\ProjetoFinal.EntityFramework\obj\Debug\ProjetoFinal.EntityFramework.csprojAssemblyReference.cache
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\ProjetoFinal.EntityFramework\obj\Debug\ProjetoFinal.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\ProjetoFinal.EntityFramework\obj\Debug\ProjetoFinal.EntityFramework.dll
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\ProjetoFinal.EntityFramework\obj\Debug\ProjetoFinal.EntityFramework.pdb
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\binarios\ProjetoFinal.EntityFramework.dll.config
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\ProjetoFinal.EntityFramework\obj\Debug\ProjetoFinal.EntityFramework.csproj.CopyComplete

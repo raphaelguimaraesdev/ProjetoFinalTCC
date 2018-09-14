@@ -21,8 +21,8 @@
         <div class="row">
             <div class="col-md-6 col-10 col-sm-10 mx-auto">
                 <div class="card rounded-0">
-                    <div class="card-header">
-                        <h6 class="mb-0">Acesso Restrito</h6>
+                    <div class="card-header  align-items-center">
+                        <h6 class="mb-0">Sistema Financeiro</h6>
                     </div>
                     <div class="card-body">
                         <form class="form" autocomplete="off" id="formLogin" [formGroup]="formularioAcesso" (ngSubmit)="onSubmit()">
@@ -35,7 +35,7 @@
                                         O usuário não está correto.
                                     </div>
                                     <div *ngIf="f.usuario.errors.email">
-                                        Usário inválido. seunome@email.com.br.
+                                        Usuário inválido. seunome@email.com.br.
                                     </div>
                                 </div>
                             </div>

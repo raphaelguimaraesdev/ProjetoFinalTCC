@@ -1,0 +1,7 @@
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\binarios\ProjetoFinal.NHibernate.dll
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\binarios\ProjetoFinal.NHibernate.pdb
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\ProjetoFinal.NHibernate\obj\Debug\ProjetoFinal.NHibernate.csprojAssemblyReference.cache
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\ProjetoFinal.NHibernate\obj\Debug\ProjetoFinal.NHibernate.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\ProjetoFinal.NHibernate\obj\Debug\ProjetoFinal.NHibernate.dll
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\ProjetoFinal.NHibernate\obj\Debug\ProjetoFinal.NHibernate.pdb
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\ProjetoFinal.NHibernate\obj\Debug\ProjetoFinal.NHibernate.csproj.CopyComplete

@@ -16,8 +16,8 @@ export class AlertasComponent {
     this.alertas.push({
       id: 1,
       type: 'success',
-      mensagem: 'This is an success alert',
-    }
+      mensagem: 'This is an success alert'
+    })
   }
 
   public fecharAlerta(alerta: IAlerta) {

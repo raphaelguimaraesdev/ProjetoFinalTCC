@@ -1,0 +1,12 @@
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\binarios\netcoreapp2.0\netcoreapp2.0\ProjetoFinal.API.deps.json
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\ProjetoFinal.API\obj\Debug\netcoreapp2.0\ProjetoFinal.API.csprojAssemblyReference.cache
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\ProjetoFinal.API\obj\Debug\netcoreapp2.0\ProjetoFinal.API.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\ProjetoFinal.API\obj\Debug\netcoreapp2.0\ProjetoFinal.API.AssemblyInfoInputs.cache
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\ProjetoFinal.API\obj\Debug\netcoreapp2.0\ProjetoFinal.API.AssemblyInfo.cs
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\ProjetoFinal.API\obj\Debug\netcoreapp2.0\ProjetoFinal.API.dll
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\ProjetoFinal.API\obj\Debug\netcoreapp2.0\ProjetoFinal.API.pdb
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\binarios\netcoreapp2.0\netcoreapp2.0\ProjetoFinal.API.runtimeconfig.json
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\binarios\netcoreapp2.0\netcoreapp2.0\ProjetoFinal.API.runtimeconfig.dev.json
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\binarios\netcoreapp2.0\netcoreapp2.0\ProjetoFinal.API.dll
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\binarios\netcoreapp2.0\netcoreapp2.0\ProjetoFinal.API.pdb
+C:\Users\rapha\Documents\DesenvolvimentoTCC\ProjetoFinalTCC\ProjetoFinal.API\obj\Debug\netcoreapp2.0\ProjetoFinal.API.csproj.CopyComplete
